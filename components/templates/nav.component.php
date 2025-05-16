@@ -2,10 +2,8 @@
     function navHeader($navList){
 ?>
 
-        <section>
-            <p>Hello Po!</p>
-        </section>
-
 <?php
     }
+    //Call the Function
+    navHeader([]);
 ?>
