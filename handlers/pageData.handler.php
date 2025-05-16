@@ -5,7 +5,6 @@
         ["Label"=> "Recipe","url"=> "/pages/recipe/index.php"],
     ];
 
-    
     $recipe=[
         [
             "title" => "Sisig",
