@@ -130,3 +130,27 @@ body {
     padding: 10px 24px;
   }
 }
+
+@media (max-width: 575.98px) {
+  .navbar {
+    padding: 10px 5px;
+  }
+  .hero {
+    height: 100vh;
+    padding: 40px 5px;
+    background-size: cover;
+    background-position: center;
+  }
+  .hero-content h1 {
+    font-size: 2rem;
+    max-width: 80vw;
+  }
+  .hero-content p {
+    font-size: 0.95rem;
+    max-width: 80vw;
+  }
+  .hero-content .btn {
+    font-size: 0.95rem;
+    padding: 8px 18px;
+  }
+}
