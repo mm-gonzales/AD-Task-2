@@ -8,10 +8,10 @@
     <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
-    <!-- <?php
+    <?php
         require_once __DIR__ . '/components/templates/nav.component.php';
         require_once __DIR__ . '/components/templates/footer.component.php';
-    ?> -->
+    ?>
 
     <section class="hero">
         <div class="hero-overlay">
