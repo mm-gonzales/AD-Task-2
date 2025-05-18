@@ -12,10 +12,14 @@
         require_once __DIR__ . '/components/templates/footer.component.php';
     ?> -->
 
-    <section>
-        <h1>Authentic Kapampangan Recipes at Your Fingertips<h1>
-        <p>Learn how to cook iconic Kapampangan dishes with step-by-step recipes. From savory sisig to hearty kare-kare, discover the secrets behind Pampanga’s most loved meals — made simple for every home cook.</p>
-        <button>View Recipe</button>
+    <section class="hero">
+        <div class="hero-overlay">
+            <div class="hero-content">
+                <h1>Authentic Kapampangan Recipes at Your Fingertips<h1>
+                <p>Learn how to cook iconic Kapampangan dishes with step-by-step recipes. From savory sisig to hearty kare-kare, discover the secrets behind Pampanga’s most loved meals — made simple for every home cook.</p>
+                <button>View Recipe</button>
+            </div>
+        </div>
     </section>
 
 <script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
