@@ -1,3 +1,8 @@
+<?php 
+    require_once __DIR__ . '/../../components/cards/recipe.card.php';
+    require_once __DIR__ . '/../../handlers/pageData.handler.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,6 +15,10 @@
 </head>
 <body>
 
+<?php
+        require_once __DIR__ . '/../../components/templates/nav.component.php';
+?>
+
     <section class="hero">
         <div class="hero-overlay">
             <div class="hero-content">
@@ -18,6 +27,14 @@
             </div>
         </div>
     </section>
+
+    <section class="grid">
+        <h1>Pamangan</h1>
+        <p>"Pagkain" in Kapampangan--The native language of Pampanga</p>
+        <?php displayRecipeCards($recipe); ?>
+    </section>
+
+
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
