@@ -20,7 +20,18 @@ body {
     background-color: rgb(0,0,0,0);
 }
 
+.navbar li{
+    color: white;
+}
 
+.navbar-nav {
+  margin-left: auto;
+  padding: 20px 40px;
+}
+
+.navbar-light .navbar-toggler-icon {
+  filter: invert(2);
+}
 
 .hero{
     height: 100vh;
