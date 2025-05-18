@@ -33,5 +33,24 @@ body {
     z-index: 1;
 }
 
+.hero-content{
+    text-align: center;
+    position: relative;
+    z-index: 2;
+}
 
+.hero-content h1{
+    font-family: 'DM Serif Text';
+    font-size: 4rem;
+    max-width: 900px;
+    margin: 2px auto;
+}
+
+.hero-content p{
+    font-size: 1.25rem;
+    line-height: 1.5;
+    max-width: 900px;
+    margin: 10px auto;
+    font-weight: 100;
+}
 
