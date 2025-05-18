@@ -32,8 +32,10 @@
       <li class="nav-item">
         <a class="nav-link active text-white" href="#">Home</a>
       </li>
+          <li class="nav-item">
+        <a class="nav-link active text-white" href="#">View Recipe</a>
+      </li>
     </ul>
-    <a href="#" class="btn btn-warning text-white fw-semibold mt-3 px-4">View Recipe</a>
   </div>
 </div>
 
