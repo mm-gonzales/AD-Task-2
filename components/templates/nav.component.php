@@ -21,6 +21,22 @@
   </div>
 </nav>
 
+<!-- Offcanvas Sidebar (Mobile Only) -->
+<div class="offcanvas offcanvas-end bg-dark text-white" tabindex="-1" id="offcanvasNavbar">
+  <div class="offcanvas-header">
+    <h5 class="offcanvas-title fw-bold" id="offcanvasNavbarLabel">Menu</h5>
+    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link active text-white" href="#">Home</a>
+      </li>
+    </ul>
+    <a href="#" class="btn btn-warning text-white fw-semibold mt-3 px-4">View Recipe</a>
+  </div>
+</div>
+
 
 
 <?php
