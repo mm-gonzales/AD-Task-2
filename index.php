@@ -7,10 +7,10 @@
     <link href="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.css" rel="stylesheet" />
 </head>
 <body>
-    <?php
+    <!-- <?php
         require_once __DIR__ . '/components/templates/nav.component.php';
         require_once __DIR__ . '/components/templates/footer.component.php';
-    ?>
+    ?> -->
 
 <script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
 </body>
