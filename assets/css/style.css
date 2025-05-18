@@ -11,6 +11,17 @@ body {
   color: #333;
 }
 
+.navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    background-color: rgb(0,0,0,0);
+}
+
+
+
 .hero{
     height: 100vh;
     background: url('../img/filipino-food.jpeg') no-repeat center center/cover;
