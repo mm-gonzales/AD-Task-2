@@ -140,6 +140,7 @@ section.recipe .card-list {
     justify-content: center;
     width: 100%;
     margin-top: 2rem;
+    flex-direction: row;
 }
 
 /* Card styling */
@@ -153,6 +154,8 @@ section.recipe .card {
     background: #fff;
     display: flex;
     flex-direction: column;
+    flex: 1 1 300px;
+    margin-bottom: 0;
 }
 
 section.recipe .card:hover {
