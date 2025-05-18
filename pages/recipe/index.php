@@ -28,10 +28,12 @@
         </div>
     </section>
 
-    <section class="grid">
+    <section class="recipe">
         <h1>Pamangan</h1>
         <p>"Pagkain" in Kapampangan--The native language of Pampanga</p>
+        <div class="card-list">
         <?php displayRecipeCards($recipe); ?>
+    </div>
     </section>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
