@@ -122,6 +122,5 @@ AD-ProjectName
 | Recipe Hero Section Image | Serves as the image on recipe page's hero | https://gttp.images.tshiftcdn.com/352610/x/0/ |
 | Sisig Image | Image for Sisig Recipe | https://upload.wikimedia.org/wikipedia/commons/d/d7/Authentic_Kapampangan_Sisig.jpg |
 | Tocino Image | Image for Tocino Recipe | https://curiousflavors.com/wp-content/uploads/2023/10/Untitled-design-2023-10-31T142408.652.jpg|
-| Pork Asado Image | Image for Pork Asado Recipe | https://www.foxyfolksy.com/wp-content/uploads/2017/09/pork-asado-kapampangan-640.jpg
-|
+| Pork Asado Image | Image for Pork Asado Recipe | https://www.foxyfolksy.com/wp-content/uploads/2017/09/pork-asado-kapampangan-640.jpg|
 | Bringhe Image | Image for Bringhe Recipe | https://kusinasecrets.com/wp-content/uploads/2024/12/u3317447599_httpss.mj_.runTRdGRAA20Nk_top_down_view_of_Filipin_69a8576a-0112-4a97-a40a-03d267c1c1b9_0.jpg |
