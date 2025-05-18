@@ -19,13 +19,11 @@
             <div class="hero-content">
                 <h1 class="display-5 fw-bold">Authentic Kapampangan Recipes at Your Fingertips</h1>
                 <p class="lead">Learn how to cook iconic Kapampangan dishes with step-by-step recipes. From savory sisig to hearty kare-kare, discover the secrets behind Pampanga’s most loved meals — made simple for every home cook.</p>
-                <button href="./pages/recipe/index.php" class="btn btn-warning btn-lg text-white mt-3">View Recipe</button>
+                <a href="pages/recipe/index.php" class="btn btn-warning btn-lg text-white mt-3">View Recipe</a>
             </div>
         </div>
     </section>
 
-
-    <!-- Bootstrap 5 (include in <head> or before </body>) -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
 </body>
