@@ -15,9 +15,9 @@
     <section class="hero">
         <div class="hero-overlay">
             <div class="hero-content">
-                <h1>Authentic Kapampangan Recipes at Your Fingertips<h1>
-                <p>Learn how to cook iconic Kapampangan dishes with step-by-step recipes. From savory sisig to hearty kare-kare, discover the secrets behind Pampanga’s most loved meals — made simple for every home cook.</p>
-                <button>View Recipe</button>
+                <h1 class="display-5 fw-bold">Authentic Kapampangan Recipes at Your Fingertips</h1>
+                <p class="lead">Learn how to cook iconic Kapampangan dishes with step-by-step recipes. From savory sisig to hearty kare-kare, discover the secrets behind Pampanga’s most loved meals — made simple for every home cook.</p>
+                <button href="#" class="btn btn-warning btn-lg text-white mt-3">View Recipe</button>
             </div>
         </div>
     </section>
