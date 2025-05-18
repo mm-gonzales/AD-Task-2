@@ -54,3 +54,14 @@ body {
     font-weight: 100;
 }
 
+.hero-content .btn{
+    font-weight: 500;
+}
+
+.hero-content .btn:hover{
+    background-color: #ff9800;
+    color: #fff !important;
+    font-weight: bold;
+    transition: all 0.2s;
+}
+
