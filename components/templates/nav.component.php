@@ -14,10 +14,10 @@
   <div class="d-none d-lg-flex ms-auto align-items-center">
     <ul class="navbar-nav mb-0 me-3">
       <li class="nav-item">
-        <a class="nav-link active text-white px-3" href="#">Home</a>
+        <a class="nav-link active text-white px-3" href="../../index.php">Home</a>
       </li>
     </ul>
-    <a href="#" class="btn btn-warning text-white fw-semibold px-4">View Recipe</a>
+    <a href="../../pages/recipe/index.php" class="btn btn-warning text-white fw-semibold px-4">View Recipe</a>
   </div>
 </nav>
 
@@ -30,10 +30,10 @@
   <div class="offcanvas-body">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link active text-white" href="#">Home</a>
+        <a class="nav-link active text-white" href="../../index.php">Home</a>
       </li>
           <li class="nav-item">
-        <a class="nav-link active text-white" href="#">View Recipe</a>
+        <a class="nav-link active text-white" href="../../pages/recipe/index.php">View Recipe</a>
       </li>
     </ul>
   </div>
