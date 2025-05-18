@@ -16,7 +16,7 @@
                 "Chili peppers",
                 "Salt and pepper"
             ],
-            "image" => ""
+            "image" => "/pages/recipe/assets/img/sisig.jpg"
         ],
         [
             "title" => "Tocino",
@@ -31,7 +31,7 @@
                 "Pineapple juice",
                 "Curing salt (optional)"
             ],
-            "image" => ""
+            "image" => "/../pages/recipe/assets/img/tocino.jpg"
         ],
         [
             "title" => "Pork Asado (Kapampangan)",
@@ -47,7 +47,7 @@
                 "Pepper",
                 "Water"
             ],
-            "image" => ""
+            "image" => "/../pages/recipe/assets/img/pork-asado.jpg"
         ],
         [
         "title" => "Bringhe",
@@ -63,7 +63,7 @@
             "Onion",
             "Garlic"
         ],
-        "image" => "bringhe.jpg"
+        "image" => "/../pages/recipe/assets/img/bringhe.jpg"
     ],
     ]
 
