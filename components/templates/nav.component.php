@@ -3,7 +3,7 @@
 ?>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-transparent py-3 px-5" style="position: absolute; top: 0; width: 100%; z-index: 1000;">
-  <a class="navbar-brand fw-bold text-white pe-4" href="#">Lasa Local</a>
+  <a class="navbar-brand fw-bold text-white pe-4" href="../../index.php">Lasa Local</a>
 
   <!-- Toggler for Offcanvas -->
   <button class="navbar-toggler text-white border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar">
