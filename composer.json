@@ -1,0 +1,16 @@
+{
+    "name": "michaelagonzales/ad-task-2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Michaelagonzales\\AdTask2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mm-gonzales",
+            "email": "michaela.v.gonzales@gmail.com"
+        }
+    ],
+    "require": {}
+}
